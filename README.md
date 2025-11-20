@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrisHasWork
 - 👀 I’m a second year college student.
-- 🌱 I’m currently learning C++ and Java.
+- 🌱 I’m currently learning C++, Java, and Python.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Virus's are neither alive or dead but a secret third thing.
 
